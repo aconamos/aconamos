@@ -1,3 +1,6 @@
+## warning
+this profile contains most code i've written since the ripe old age of 14. it's not that it isn't good (though it is terrible), but rather, i had a propensity to make really useless projects and have the audacity to publish them on github. i'm sorry.
+
 - 👋 Hi, I’m @aconamos
 - 👀 I’m interested in removing this notification
 - 🌱 I’m currently learning how to get rid of thie notification
